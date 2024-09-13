@@ -18,3 +18,9 @@ Serão realizadas diversas análises com a finalidade de representar melhor os d
 - Qual a porcentagem dos critérios por unidade da federação?
 - Qual a porcentagem dos critérios por tipo do relatório?
 - Qual a porcentagem dos critérios por ano de publicação do relatório?
+
+### Instalação das dependencias do projeto
+ - ```bash
+   pip install --upgrade pip
+   pip install -r requiriments.txt
+   ```
