@@ -2,7 +2,7 @@
 
 #### UFPB - Universidade Federal da Paraíba
 #### Gestão Pública
-Autores: Bruno Souza da Costa e Cecilia Lori Medeiros
+Autores: Bruno Souza da Costa e Cecília Lori de Medeiros Cruz  
 
 
 bruno.souza@dcx.ufpb.br  
