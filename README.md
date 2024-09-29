@@ -15,9 +15,13 @@ Serão realizadas diversas análises com a finalidade de representar melhor os d
 - Quantos e qual a porcentagem dos casos por unidade da federação?
 - Quantos e qual a porcentagem dos casos por tipo do relatório?
 - Quantos e qual a porcentagem dos casos pelo ano de publicação do relatório?
+- Quantos e qual a porcentagem dos casos por região?
+- Quantos e qual a porcentagem dos casos mensais de cada ano?
 - Qual a porcentagem dos critérios por unidade da federação?
 - Qual a porcentagem dos critérios por tipo do relatório?
 - Qual a porcentagem dos critérios por ano de publicação do relatório?
+- Qual a porcentagem dos critérios por região?
+- Qual a porcentagem dos critérios mensalmente de cada ano?
 
 ### Instalação das dependencias do projeto
  - ```bash
