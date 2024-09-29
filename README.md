@@ -22,6 +22,7 @@ Serão realizadas diversas análises com a finalidade de representar melhor os d
 - Qual a porcentagem dos critérios por ano de publicação do relatório?
 - Qual a porcentagem dos critérios por região?
 - Qual a porcentagem dos critérios mensalmente de cada ano?
+- Qual a porcentagem de correlação entre esses critérios?
 
 ### Instalação das dependencias do projeto
  - ```bash
