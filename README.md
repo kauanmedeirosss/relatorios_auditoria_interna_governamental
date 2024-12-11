@@ -26,6 +26,6 @@ Serão realizadas diversas análises com a finalidade de representar melhor os d
 
 ### Instalação das dependencias do projeto
  - ```bash
-   python.exe -m pip install --upgrade pip
+   pip install --upgrade pip
    pip install -r requiriments.txt
    ```
