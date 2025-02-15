@@ -1,7 +1,7 @@
 # Análise dos relatórios de auditoria
 
 #### UFPB - Universidade Federal da Paraíba
-#### Gestão Pública
+#### LabGov
 Autores: Bruno Souza da Costa e Cecília Lori de Medeiros Cruz  
 
 
