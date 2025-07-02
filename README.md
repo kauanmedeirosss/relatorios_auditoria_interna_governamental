@@ -2,11 +2,11 @@
 
 #### UFPB - Universidade Federal da Paraíba
 #### LabGov
-Autores: Bruno Souza da Costa e Cecília Lori de Medeiros Cruz  
+Autores: Bruno Souza da Costa e Lori de Medeiros Cruz  
 
 
 bruno.souza@dcx.ufpb.br  
-cecilia.medeiros@dcx.ufpb.br
+lori.medeiros@dcx.ufpb.br
 
 ### Esse código foi utilizado para realizar as análises de dados sobre os relatórios de auditoria interna governamental e os critérios do manual do TCU cumpridos por estes
 
