@@ -2,7 +2,7 @@
 
 #### UFPB - Universidade Federal da Paraíba
 #### LabGov
-Autores: Bruno Souza da Costa e Lori de Medeiros Cruz  
+Autores: Bruno Souza da Costa e Kauan de Medeiros Cruz  
 
 
 bruno.souza@dcx.ufpb.br  
